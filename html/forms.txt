@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Forms Into</title>
+</head>
+
+<body>
+	<form action="#" method="POST" name="my_form">
+		<input type="text" name="username">
+	</form>
+</body>
+</html>
